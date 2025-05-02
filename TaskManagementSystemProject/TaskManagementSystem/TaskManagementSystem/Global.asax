@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="TaskManagementSystem.Global_asax" Language="C#" %>
